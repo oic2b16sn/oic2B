@@ -1,21 +1,13 @@
------
-=====
-これみといてBY松崎
+//googleコーディング規約　html css
 
-コラボレータになった人は、まずgithubから最新のコードを取得する必要があります。 githubのリポジトリページヘアクセスし、gitファイルのURLをコピーしてください。
+http://detarame.moo.jp/2012/08/07/google%E3%81%8C%E6%8E%A8%E8%96%A6%E3%81%99%E3%82%8Bhtml%E3%81%A8css%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E6%96%B9%E6%B3%95/
 
-んでよんだら名前追加してPULLしといて。
 
-↓<BR>
-・松崎<BR>
-・宮里<BR>
-・かなや<BR>
-・god<BR>
-・つじｔ<BR>
+//cakephpの使い方
+http://libro.tuyano.com/index2?id=734001　
+http://webcake.no003.info/event/cakephp2-8hours-seminar.html
 
-んでmasterでしたら収集つかんようになるから！
-自分の名前でpushしてな！
-んでcloneできひん人おる？
-これできなローカルで作業できひんから。
 
-以上よろしく
+できればこれでいこうと思います。
+全部理解するのは時間がないんで
+だいたいこんな感じかってわかってくれたら幸いです
